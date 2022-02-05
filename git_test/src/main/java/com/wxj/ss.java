@@ -5,6 +5,7 @@ public class ss {
         System.out.println("git and idea");
         System.out.println("git and idea 2");
         System.out.println("git and idea 3");
+        System.out.println("git and idea 3");
 
 
     }
