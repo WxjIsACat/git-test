@@ -9,7 +9,7 @@ public class ss {
         System.out.println("git and idea 3------hot-fix");
         System.out.println("git and idea 3------master test");
         System.out.println("idea push");
-
+        System.out.println("github update");
 
     }
 }
