@@ -7,7 +7,7 @@ public class ss {
         System.out.println("git and idea 3");
         System.out.println("git and idea 3");
         System.out.println("git and idea 3-----master");
-        System.out.println("git and idea 3-----hot-fix");
+
 
 
     }
